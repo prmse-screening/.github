@@ -1,3 +1,5 @@
 <div align="center">
-![post](./post.jpg)
+
+![post](/Users/xsd/Downloads/.github-private/profile/post.jpg)
+
 </div>
