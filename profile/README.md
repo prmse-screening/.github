@@ -1,7 +1,3 @@
 <div align="center">
-
-# PRMSE
-
-![poster](./poster.jpg)
-
+![post](./post.jpg)
 </div>
