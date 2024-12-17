@@ -2,6 +2,6 @@
 
 # PRMSE
 
-![post](./images/poster.jpg)
+![post](./poster.jpg)
 
 </div>
